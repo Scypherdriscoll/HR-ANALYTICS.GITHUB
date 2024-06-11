@@ -5,7 +5,13 @@
 
 
 <h2>Description</h2>
-This project consists of a comprehensive dataset that encapsulates the sales transactions occurring at a supermarket. This dataset is a rich source of information, comprising 1,000 individual entries, each representing a unique transaction. These entries are further divided into 17 distinct columns, each column representing a specific attribute related to the sales transactions. The attributes could range from the type of product sold, the quantity, the time of purchase, to the demographics of the customer, among others. This structured and detailed organization of data provides an invaluable opportunity to delve deep into the various aspects of supermarket sales. It allows for a thorough analysis and understanding of sales patterns, customer behavior, popular products, peak shopping times, and so much more. The insights derived from this dataset could be instrumental in driving strategic business decisions, optimizing operations, and enhancing customer satisfaction in the supermarket industry.
+The primary objective of this project is two-fold.
+
+Firstly, it involves the meticulous identification and compilation of a comprehensive list of employees who have demonstrated a commendable health record, characterized by minimal absenteeism. This list will serve as the basis for the implementation of a health bonus program, an initiative designed to incentivize and reward employees for their commitment to maintaining good health, thereby contributing to a more productive work environment.
+
+Secondly, the project entails the development of a sophisticated, user-friendly dashboard for the Human Resources department. This dashboard, designed in accordance with an approved wireframe, will provide an intuitive and insightful visualization of absenteeism patterns within the organization. By leveraging this tool, HR professionals will be able to gain a deeper understanding of absenteeism trends, identify potential areas of concern, and formulate effective strategies to promote employee attendance and overall well-being.
+
+In essence, this project represents a strategic effort to foster a healthier, more engaged workforce, while simultaneously equipping HR with the necessary tools to monitor and manage absenteeism effectively. As a data analyst specialist, I will employ rigorous data analysis techniques and leverage my expertise in dashboard creation to ensure the successful execution of this project.
 <br />
 
 
