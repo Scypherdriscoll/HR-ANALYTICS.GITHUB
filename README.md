@@ -30,25 +30,14 @@ In essence, this project represents a strategic effort to foster a healthier, mo
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Importing libraries: <br/>
-<img src="https://imgur.com/tShhPYa.png" height="80%" width="80%" alt=""/>
+using SQL TO SELECT AND CREATE A NEW LIST BASED ON THE REQUIRED CRITERIAS: <br/>
+<img src="https://imgur.com/7sc8FFF.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Loading dataset:  <br/>
-<img src="https://imgur.com/s0Z5lMg.png" height="80%" width="80%" alt=""/>
+CREATING DASHBOARD FOR HR WITH POWER BI:  <br/>
+<img src="https://imgur.com/kkfYZzj.png" height="80%" width="80%" alt=""/>
 <br />
-<br />
-Checking for missing values and duplicates: <br/>
-<img src="https://imgur.com/Sl7k1is.png" height="80%" width="80%" alt=""/>
-<br />
-<br />
-Compareing RMSE and MAE of all ML algorithms:  <br/>
-<img src="https://imgur.com/uTcZhlg.png" height="80%" width="80%" alt=""/>
-<br />
-<br />
-Applying chosen model:  <br/>
-<img src="https://imgur.com/lTLM4NN.png" height="80%" width="80%" alt=""/>
-<br />
+
 
 </p>
 
